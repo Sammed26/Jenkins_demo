@@ -9,7 +9,7 @@ public class Hello
 		
 		System.out.println("wow");
 
-		System.out.println("now this project is getting tracked by git")
-		
+		System.out.println("now this project is getting tracked by git");
+
 	}
 }
